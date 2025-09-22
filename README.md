@@ -1,2 +1,2 @@
-# JS-React-Projects
-JavaScript and React Small Projects
+# JS-Projects
+JavaScript Small Projects
